@@ -1,0 +1,14 @@
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\bin\Debug\net8.0\Assignment_2_CS.exe
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\bin\Debug\net8.0\Assignment_2_CS.deps.json
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\bin\Debug\net8.0\Assignment_2_CS.runtimeconfig.json
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\bin\Debug\net8.0\Assignment_2_CS.dll
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\bin\Debug\net8.0\Assignment_2_CS.pdb
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\obj\Debug\net8.0\Assignment_2_CS.GeneratedMSBuildEditorConfig.editorconfig
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\obj\Debug\net8.0\Assignment_2_CS.AssemblyInfoInputs.cache
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\obj\Debug\net8.0\Assignment_2_CS.AssemblyInfo.cs
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\obj\Debug\net8.0\Assignment_2_CS.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\obj\Debug\net8.0\Assignment_2_CS.dll
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\obj\Debug\net8.0\refint\Assignment_2_CS.dll
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\obj\Debug\net8.0\Assignment_2_CS.pdb
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\obj\Debug\net8.0\Assignment_2_CS.genruntimeconfig.cache
+E:\C_Sharp\Assignment_2_CS\Assignment_2_CS\obj\Debug\net8.0\ref\Assignment_2_CS.dll
